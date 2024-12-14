@@ -11,14 +11,12 @@
             "id": "e6db927e711dc5e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "statistics/lesson-01.md",
-                "mode": "source",
-                "source": false
+                "file": "trash/Pasted image 20241214212412.png"
               },
-              "icon": "lucide-file",
-              "title": "lesson-01"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241214212412"
             }
           }
         ]
@@ -162,24 +160,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6db927e711dc5e8",
+  "active": "492dba76f1dbff52",
   "lastOpenFiles": [
-    "trash/Pasted image 20241214212600.png",
-    "trash/Pasted image 20241214212552.png",
-    "trash/Pasted image 20241214212541.png",
-    "trash/Pasted image 20241214212525.png",
-    "trash/Pasted image 20241214212503.png",
-    "trash/Pasted image 20241214212454.png",
-    "trash/Pasted image 20241214212442.png",
-    "trash/Pasted image 20241214212430.png",
-    "trash/Pasted image 20241214212412.png",
-    "trash",
     "Pasted image 20241214212600.png",
     "Pasted image 20241214212552.png",
+    "Pasted image 20241214212541.png",
+    "Pasted image 20241214212525.png",
+    "Pasted image 20241214212503.png",
+    "Pasted image 20241214212454.png",
+    "Pasted image 20241214212442.png",
+    "Pasted image 20241214212430.png",
+    "Pasted image 20241214212412.png",
+    "statistics/lesson-01.md",
+    "Pasted image 20241214213228.png",
+    "Pasted image 20241214213216.png",
+    "trash",
     "statistics/general.md",
     "web ttech/lesson-01.md",
     "numerical methodss/lesson-01.md",
-    "Timetable for Group MCS-2301.md",
-    "statistics/lesson-01.md"
+    "Timetable for Group MCS-2301.md"
   ]
 }

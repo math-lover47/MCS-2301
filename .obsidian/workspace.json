@@ -11,12 +11,14 @@
             "id": "e6db927e711dc5e8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "trash/Pasted image 20241214212412.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241214212412"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -160,20 +162,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "492dba76f1dbff52",
+  "active": "e6db927e711dc5e8",
   "lastOpenFiles": [
+    "trash/Pasted image 20241214213648.png",
+    "trash/Pasted image 20241214213639.png",
+    "Pasted image 20241214213648.png",
+    "Pasted image 20241214213639.png",
+    "statistics/lesson-01.md",
+    "README.md",
+    "trash/Pasted image 20241214212412.png",
     "Pasted image 20241214212600.png",
     "Pasted image 20241214212552.png",
     "Pasted image 20241214212541.png",
     "Pasted image 20241214212525.png",
     "Pasted image 20241214212503.png",
     "Pasted image 20241214212454.png",
-    "Pasted image 20241214212442.png",
-    "Pasted image 20241214212430.png",
-    "Pasted image 20241214212412.png",
-    "statistics/lesson-01.md",
-    "Pasted image 20241214213228.png",
-    "Pasted image 20241214213216.png",
     "trash",
     "statistics/general.md",
     "web ttech/lesson-01.md",

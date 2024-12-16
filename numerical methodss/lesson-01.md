@@ -8,4 +8,4 @@ Numerical differentiation
 
 [code to calculate up, down, central differentiation](https://go.dev/play/p/P1rIhBy0lfT)
 
-[code to calculate with eulers method]()
+[code to calculate with eulers method](https://go.dev/play/p/1N-6Irqh7qW)

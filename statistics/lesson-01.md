@@ -1,8 +1,11 @@
-![[Pasted image 20241214212412.png]]
-![[Pasted image 20241214212430.png]]![[Pasted image 20241214212442.png]]
-![[Pasted image 20241214212454.png]]
-![[Pasted image 20241214212503.png]]
-![[Pasted image 20241214212525.png]]
-![[Pasted image 20241214212541.png]]
-![[Pasted image 20241214213639.png]]
-![[Pasted image 20241214213648.png]]
+![Pasted image 20241214212442](https://github.com/user-attachments/assets/6d459095-d7b5-4b7f-81ee-13422cd983d1)
+![Pasted image 20241214212430](https://github.com/user-attachments/assets/86327fcb-8980-443f-8426-b1e0621a1a43)
+![Pasted image 20241214212412](https://github.com/user-attachments/assets/b8d82f50-7f44-4e0f-871a-1953722fed98)
+![Pasted image 20241214213648](https://github.com/user-attachments/assets/279bff80-a5d3-4fcc-b30f-14d36fea2e04)
+![Pasted image 20241214213639](https://github.com/user-attachments/assets/bc509816-fe96-4f5a-8171-5b75b97f6d85)
+![Pasted image 20241214212600](https://github.com/user-attachments/assets/cdbf1dbb-2ee1-4ea9-8841-93898309a0f9)
+![Pasted image 20241214212552](https://github.com/user-attachments/assets/b51a4168-d171-4e44-a81b-e5146fdb0849)
+![Pasted image 20241214212541](https://github.com/user-attachments/assets/c525b150-9542-47e1-84be-d6e80d0b1c09)
+![Pasted image 20241214212525](https://github.com/user-attachments/assets/42f714b8-ee6c-4596-b259-aaa00678b1ec)
+![Pasted image 20241214212503](https://github.com/user-attachments/assets/c6f41e9a-c216-4c93-a14a-8f2bb6e7b625)
+![Pasted image 20241214212454](https://github.com/user-attachments/assets/edcb546b-055c-4849-b79f-d51ff952d03d)

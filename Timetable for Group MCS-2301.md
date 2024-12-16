@@ -1,12 +1,11 @@
 
 | **Day of the week** | **Time**    | **Discipline**                               | **Classroom** | **Type**   | **Lecturer**         |
 | ------------------- | ----------- | -------------------------------------------- | ------------- | ---------- | -------------------- |
-| **Monday**          | 12:00–13:55 | Probability and Statistics                   | C1.1.334L     | Lecture    | Amankulkyzy Adina    |
-|                     | 14:00–15:50 | Numerical Methods for Differential Equations | C1.1.350P     | Lecture    | Bolatbek Rysbayevich |
+| **Monday**          | 14:00–15:50 | Numerical Methods for Differential Equations | C1.1.350P     | Lecture    | Bolatbek Rysbayevich |
 |                     | 17:00–18:50 | Web-Technologies                             | C1.1.346P     | Lecture    | Seitov Altynbek      |
 | **Tuesday**         | 12:00–14:00 | Web-Technologies                             | C1.1.349K     | Practice   | Seitov Altynbek      |
 |                     | 14:00–15:50 | Russian Language 2                           | C1.1.225P     | Practice   | Zuliya Moldakhmetova |
-|                     | 16:00–17:50 | Web-Technologies                             | C1.1.242P     | Practice   | Seitov Altynbek      |
+|                     | 16:00–16:50 | Web-Technologies                             | C1.1.242P     | Practice   | Seitov Altynbek      |
 |                     | 17:00–18:50 | Physics                                      | C1.1.254P     | Lecture    | Bauzhan Ilyasov      |
 | **Wednesday**       | 08:00–08:50 | Probability and Statistics                   | Online        | Lecture    | Amankulkyzy Adina    |
 | **Thursday**        | 08:00–09:50 | Russian Language 2                           | Online        | Practice   | Zuliya Moldakhmetova |

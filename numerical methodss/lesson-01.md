@@ -6,6 +6,6 @@ Numerical differentiation
 
 [# Numerical Differentiation](https://www.youtube.com/watch?v=zM2wim4JZd0)
 
-[code to calculate up, down, central differentiation](https://go.dev/play/p/P1rIhBy0lfT)
+[code to calculate up, down, central differentiation](https://go.dev/play/p/Y-lB_94vDdw)
 
-[code to calculate with eulers method](https://go.dev/play/p/1N-6Irqh7qW)
+[code to calculate with eulers method](https://go.dev/play/p/bWeNrRU8iiU)

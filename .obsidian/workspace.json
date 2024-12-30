@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "statistics/lesson-03.md",
+                "file": "numerical methodss/lesson-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lesson-03"
+              "title": "lesson-02"
             }
           }
         ]
@@ -164,6 +164,13 @@
   },
   "active": "e6db927e711dc5e8",
   "lastOpenFiles": [
+    "physics/lesson-1Q.md",
+    "physics/lesson-01.md",
+    "numerical methodss/lesson-01.md",
+    "numerical methodss/lesson-02.md",
+    "numerical methodss/lesson-03.md",
+    "statistics/lesson-03.md",
+    "physics",
     "statistics/lesson-02.md",
     "statistics/lesson-01.md",
     "README.md",
@@ -171,9 +178,6 @@
     "нормы.md",
     "web ttech/lesson-01.md",
     "Pasted image 20241218143834.png",
-    "numerical methodss/lesson-01.md",
-    "numerical methodss/lesson-02.md",
-    "statistics/lesson-03.md",
     "web ttech/lesson-02 notes.md",
     "web ttech/lesson-02.md",
     "web ttech/lesson-01 notes.md",

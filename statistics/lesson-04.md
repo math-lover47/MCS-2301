@@ -51,7 +51,7 @@ $$
 
 ![](../Pasted%20image%2020250102132037.png)
 
-![](../Pasted%20image%2020250102132051.png)![](../Pasted%20image%2020250102132051.png)
+![](../Pasted%20image%2020250102132051.png)
 # Shortly how I did it:
 
 $$
@@ -70,12 +70,12 @@ $$
 # Shortly how I did it:
 
 $$
-\begin{align}
+\begin{aligned}
 \Large 12 - 1 \\
 \Large 1 - x \\ \\
 
 \Large x = \frac{1}{4}
-\end{align}
+\end{aligned}
 $$
 
 $$
@@ -83,12 +83,12 @@ $$
 $$
 
 $$
-\begin{align}
+\begin{aligned}
 \Large P(\text{Crossing Installed}) = 1 - (P\leq1)^{12} = 1-\left( e^{-\frac{1}{4}\left( 1+\frac{1}{4} \right)} \right)^{12}=  \\ \\
 
 \Large 0.275,502,801,6 \approx 0.2755 \\
 \Large \text{(I tried both 3 d.p and 4 d.p)}
-\end{align}
+\end{aligned}
 $$
 
 ![](../Pasted%20image%2020250102132140.png)
@@ -102,10 +102,10 @@ $$
 $$
 
 $$
-\begin{align}
+\begin{aligned}
 \Large P(Y <2 ) = P(Y=0)+P(Y=1)\\
 \Large =\binom{30}{0}*0.1813^{0}*(1-0.1813)^{30-0} + \binom{30}{1}*0.1813^{1}*(1-0.1813)^{30-1} \\
 \Large =0.01892490291 \approx 0.0189 \\
 \text{(Try 0.01892)}
-\end{align}
+\end{aligned}
 $$

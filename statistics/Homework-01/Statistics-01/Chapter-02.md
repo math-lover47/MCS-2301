@@ -3,7 +3,7 @@
 
 ---
 #### 8
-
+![image](https://github.com/user-attachments/assets/896958d3-7342-4a18-8cf4-0f8fcfa51a65)
 
  $\Large \sum f = 5 \quad15 \quad41 \quad49 \quad50$
 
@@ -54,6 +54,8 @@ $$
 $$
 
 #### 9)
+![image](https://github.com/user-attachments/assets/4b5aeae4-13c2-4afc-89a4-e3633322d9f3)
+
 ##### a)
 
 $$
@@ -101,6 +103,7 @@ $$
 \Large 30 - d  = 5.26
 $$
 #### 10)
+![image](https://github.com/user-attachments/assets/58f4d563-e35d-4035-ab63-6fc51dd2eb47)
 
 ##### a)
 $$
@@ -124,6 +127,8 @@ $$
 $$
 
 #### 11)
+![image](https://github.com/user-attachments/assets/593e15fb-ab6e-46e0-b41e-e42816fe2e90)
+
 ##### a)
 
 $$

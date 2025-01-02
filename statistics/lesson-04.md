@@ -2,8 +2,6 @@ Please write me in telegram  if you solve something I couldn't solve, then I'll 
 
 ![](../Pasted%20image%2020250102131844.png)
 
-![](../Pasted%20image%2020250102131901.png)
-
 ![](../Pasted%20image%2020250102131917.png)
 
 ![](../Pasted%20image%2020250102131933.png)

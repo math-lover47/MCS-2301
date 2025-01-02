@@ -1,12 +1,14 @@
 Please write me in telegram  if you solve something I couldn't solve, then I'll fix it here.
 
-![](../Pasted%20image%2020250102131844.png)
+![image](https://github.com/user-attachments/assets/cb90f94c-e7d0-4a3b-9441-d7a877ab5002)
 
-![](../Pasted%20image%2020250102131901.png)
 
-![](../Pasted%20image%2020250102131917.png)
+![image](https://github.com/user-attachments/assets/7d845c8b-4fec-4ae3-9e91-334585edcb0f)
 
-![](../Pasted%20image%2020250102131933.png)
+
+![image](https://github.com/user-attachments/assets/fa5615f8-0206-44ba-a5e7-64928f69eeba)
+
+![image](https://github.com/user-attachments/assets/5e1f786b-720a-430d-875e-3642c0339ad1)
 
 # Shortly how I did it:
 
@@ -43,15 +45,20 @@ $$
 \Large e^{-9} \left( \frac{9^{0}}{0!}+\frac{9^{1}}{1!}+\frac{9^{2}}{2!}+\frac{9^{3}}{3!}+\frac{9^{4}}{4!}+\frac{9^{5}}{5!}+\frac{9^{6}}{6!} \right) = 0.2067808399\approx 0.207
 $$
 
-![](../Pasted%20image%2020250102131952.png)
+![image](https://github.com/user-attachments/assets/f29932ef-0961-4c08-9488-9948ef5ef9a3)
 
-![](../Pasted%20image%2020250102132009.png)
 
-![](../Pasted%20image%2020250102132024.png)
+![image](https://github.com/user-attachments/assets/6ff6f42a-ba26-4cbc-82dd-7e5641232b23)
 
-![](../Pasted%20image%2020250102132037.png)
 
-![](../Pasted%20image%2020250102132051.png)
+![image](https://github.com/user-attachments/assets/94de2773-4025-413e-990b-dbc2e09058e5)
+
+
+![image](https://github.com/user-attachments/assets/cd43ed3c-60ad-4799-8f92-f0666161b742)
+
+
+![image](https://github.com/user-attachments/assets/a682cc8d-7848-43cd-829f-2d752b49aed2)
+
 # Shortly how I did it:
 
 $$
@@ -66,7 +73,8 @@ $$
 \Large e^{-8} \left( \frac{8^{0}}{0!}+\frac{8^{1}}{1!}+\frac{8^{2}}{2!}+\frac{8^{3}}{3!}+\frac{8^{4}}{4!}+\frac{8^{5}}{5!}+\frac{8^{6}}{6!} \right) = 0.3133742775 \approx 0.313
 $$
 
-![](../Pasted%20image%2020250102132129.png)
+![image](https://github.com/user-attachments/assets/a790ee67-6ca2-46ef-be24-fd50235e2709)
+
 # Shortly how I did it:
 
 $$
@@ -89,7 +97,8 @@ $$
 \end{aligned}
 $$
 
-![](../Pasted%20image%2020250102132140.png)
+![image](https://github.com/user-attachments/assets/a9cc09ff-ab15-4e1d-a84a-c273196b6a10)
+
 # Shortly how I did it:
 
 $$

@@ -73,7 +73,6 @@ $$
 \begin{aligned}
 \Large 12 - 1 \\
 \Large 1 - x \\ \\
-
 \Large x = \frac{1}{4}
 \end{aligned}
 $$
@@ -85,7 +84,6 @@ $$
 $$
 \begin{aligned}
 \Large P(\text{Crossing Installed}) = 1 - (P\leq1)^{12} = 1-\left( e^{-\frac{1}{4}\left( 1+\frac{1}{4} \right)} \right)^{12}=  \\ \\
-
 \Large 0.275,502,801,6 \approx 0.2755 \\
 \Large \text{(I tried both 3 d.p and 4 d.p)}
 \end{aligned}

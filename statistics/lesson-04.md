@@ -90,6 +90,7 @@ $$
 $$
 
 ![[../Pasted image 20250102125643.png]]
+# Shortly how I did it:
 
 $$
 \Large P(X\geq 1) = 1 - P(X=0)=1-e^{-0.2}= 0.1812692469 \approx 0.1813

@@ -1,6 +1,6 @@
 Please write me in telegram  if you solve something I couldn't solve, then I'll fix it here.
 
-![[../Pasted image 20250102114611.png]]
+![](../Pasted%20image%2020250102131723.png)
 
 ![[../Pasted image 20250102114634.png]]
 
@@ -68,6 +68,7 @@ $$
 
 ![[../Pasted image 20250102124126.png]]
 # Shortly how I did it:
+
 $$
 \begin{align}
 \Large 12 - 1 \\
@@ -76,6 +77,7 @@ $$
 \Large x = \frac{1}{4}
 \end{align}
 $$
+
 $$
 \Large P(X\geq 2) = 1 - P(X\leq1)=1-e^{-\frac{1}{4}\left( 1+\frac{1}{4} \right)}= 0.26499 \approx 0.0265
 $$

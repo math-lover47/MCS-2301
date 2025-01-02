@@ -1,12 +1,12 @@
 Please write me in telegram  if you solve something I couldn't solve, then I'll fix it here.
 
-![](../Pasted%20image%2020250102131723.png)
+![](../Pasted%20image%2020250102131844.png)
 
-![[../Pasted image 20250102114634.png]]
+![](../Pasted%20image%2020250102131901.png)
 
-![[../Pasted image 20250102114647.png]]
+![](../Pasted%20image%2020250102131917.png)
 
-![[../Pasted image 20250102114702.png]]
+![](../Pasted%20image%2020250102131933.png)
 
 # Shortly how I did it:
 
@@ -43,15 +43,15 @@ $$
 \Large e^{-9} \left( \frac{9^{0}}{0!}+\frac{9^{1}}{1!}+\frac{9^{2}}{2!}+\frac{9^{3}}{3!}+\frac{9^{4}}{4!}+\frac{9^{5}}{5!}+\frac{9^{6}}{6!} \right) = 0.2067808399\approx 0.207
 $$
 
-![[../Pasted image 20250102122613.png]]
+![](../Pasted%20image%2020250102131952.png)
 
-![[../Pasted image 20250102122632.png]]
+![](../Pasted%20image%2020250102132009.png)
 
-![[../Pasted image 20250102122647.png]]
+![](../Pasted%20image%2020250102132024.png)
 
-![[../Pasted image 20250102122657.png]]
+![](../Pasted%20image%2020250102132037.png)
 
-![[../Pasted image 20250102122709.png]]
+![](../Pasted%20image%2020250102132051.png)![](../Pasted%20image%2020250102132051.png)
 # Shortly how I did it:
 
 $$
@@ -66,7 +66,7 @@ $$
 \Large e^{-8} \left( \frac{8^{0}}{0!}+\frac{8^{1}}{1!}+\frac{8^{2}}{2!}+\frac{8^{3}}{3!}+\frac{8^{4}}{4!}+\frac{8^{5}}{5!}+\frac{8^{6}}{6!} \right) = 0.3133742775 \approx 0.313
 $$
 
-![[../Pasted image 20250102124126.png]]
+![](../Pasted%20image%2020250102132129.png)
 # Shortly how I did it:
 
 $$
@@ -91,7 +91,7 @@ $$
 \end{align}
 $$
 
-![[../Pasted image 20250102125643.png]]
+![](../Pasted%20image%2020250102132140.png)
 # Shortly how I did it:
 
 $$

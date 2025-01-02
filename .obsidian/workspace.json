@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "numerical methodss/lesson-02.md",
+                "file": "statistics/lesson-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lesson-02"
+              "title": "lesson-04"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "ef238ac1ce45e41b",
@@ -164,20 +164,32 @@
   },
   "active": "e6db927e711dc5e8",
   "lastOpenFiles": [
+    "photos/Pasted image 20250102132140.png",
+    "photos/Pasted image 20250102132129.png",
+    "photos/Pasted image 20250102132051.png",
+    "photos/Pasted image 20250102132037.png",
+    "photos/Pasted image 20250102132024.png",
+    "photos/Pasted image 20250102132009.png",
+    "photos/Pasted image 20250102131952.png",
+    "photos/Pasted image 20250102131933.png",
+    "photos/Pasted image 20250102131917.png",
+    "photos/Pasted image 20250102131901.png",
+    "photos/Pasted image 20250102131844.png",
+    "photos",
+    "statistics/lesson-04.md",
+    "Timetable for Group MCS-2301.md",
+    "numerical methodss/lesson-02.md",
     "physics/lesson-1Q.md",
     "physics/lesson-01.md",
     "numerical methodss/lesson-01.md",
-    "numerical methodss/lesson-02.md",
     "numerical methodss/lesson-03.md",
     "statistics/lesson-03.md",
     "physics",
     "statistics/lesson-02.md",
     "statistics/lesson-01.md",
     "README.md",
-    "Timetable for Group MCS-2301.md",
     "нормы.md",
     "web ttech/lesson-01.md",
-    "Pasted image 20241218143834.png",
     "web ttech/lesson-02 notes.md",
     "web ttech/lesson-02.md",
     "web ttech/lesson-01 notes.md",
@@ -185,15 +197,6 @@
     "web ttech/lesson-02 notes",
     "statistics/general.md",
     "aggressive-phonk-phonk-2024-mix-239735.mp3",
-    "trash/Pasted image 20241214213648.png",
-    "trash/Pasted image 20241214213639.png",
-    "Pasted image 20241214213648.png",
-    "Pasted image 20241214213639.png",
-    "trash/Pasted image 20241214212412.png",
-    "Pasted image 20241214212600.png",
-    "Pasted image 20241214212552.png",
-    "Pasted image 20241214212541.png",
-    "Pasted image 20241214212525.png",
     "trash"
   ]
 }

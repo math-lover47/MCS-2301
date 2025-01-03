@@ -3,6 +3,8 @@
 
 ---
 #### 1
+![image](https://github.com/user-attachments/assets/97287ffc-95c7-4dcd-8491-3d8a1917065f)
+
 ##### a)
 ```
     Y
@@ -26,6 +28,8 @@ $$
 P((B \cup Y )\cap(B\cup Y) ) = \frac{4}{7} * \frac{3}{6} + \frac{3}{7} * \frac{4}{6} = \frac{4}{7}
 $$
 #### 2
+![image](https://github.com/user-attachments/assets/bb0be0fc-484b-4042-9a41-598d9b341f75)
+
 ```
   R
  / 
@@ -44,6 +48,7 @@ $$
 P((R \cap G \cap B) (3!) = \frac{7}{15}\frac{5}{15}\frac{3}{15} (3!) = 0.093
 $$
 #### 3
+![image](https://github.com/user-attachments/assets/e794c4b6-f542-4099-a3a6-0318651e030d)
 
 ##### a)
 $$
@@ -58,6 +63,8 @@ $$
 1-P((B' \cap B' \cap B') = 1- (1-0.391)^{3}  = 0.724
 $$
 #### 4
+![image](https://github.com/user-attachments/assets/32f247d5-cf74-43b7-9ddc-c0c71f9ab9f4)
+
 
 ##### a)
 $$
@@ -111,6 +118,7 @@ P(pass) = \frac{(21+30+27)+(23+26+32)}{250} = \frac{159}{250} \approx 0.636
 $$
 
 #### 5
+![image](https://github.com/user-attachments/assets/f594ebf5-3528-482d-b906-751a9cb566a1)
 
 ##### a) 
 $$

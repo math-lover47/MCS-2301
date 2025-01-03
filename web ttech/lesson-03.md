@@ -1,9 +1,12 @@
+<div style:= "font-size: 3em">
+
+<h1>Requirements</h1>
 <p>We want to learn about flexbox layout in html.
 So let divide it into steps for better understanding.</p>
 <p>First of all we need to be familiar with stuff like: <i>css and div, class, id.</i></p>
-<p>Then we need to learn about <a href="https://www.w3schools.com/css/css_display_visibility.asp">the display property</a> also if you want you can <a href="https://www.w3schools.com/cssref/pr_class_display.php">read more examples with display</a> and if you <a href="https://www.geeksforgeeks.org/introduction-to-css-flexbox/">want to read even more</a></p>
+<p>Then we need to learn about display property<a href="https://www.w3schools.com/css/css_display_visibility.asp"> source-01 </a><a href="https://www.w3schools.com/cssref/pr_class_display.php"> source-02 </a><a href="https://www.geeksforgeeks.org/introduction-to-css-flexbox/"> source-03 </a></p>
 
-# Shortly about CSS display property
+<h1>Shortly about CSS display property</h1>
 <p>
 The <b>Display property</b> in CSS defines how the components(div, hyperlink, heading, etc) are going to be placed on the web page. As the name suggests, this property is used to define the display of the different parts of a web page.</p>
 <ul> 
@@ -13,31 +16,31 @@ The <b>Display property</b> in CSS defines how the components(div, hyperlink, 
        <li><p><b>None</b> This property hides the div or the container which use this property. Using it on one of the div it will make working clear.</p></li>
 </ul>
 
-If you want to [read about it](https://www.w3schools.com/cssref/pr_class_display.php)
+If you want to <a href="https://www.w3schools.com/cssref/pr_class_display.php">read about display property</a>
 
-# CSS fonts
+<h1>CSS fonts</h1>
 <p>The CSS font property is used to set the fonts content of HTML element. There are many font property in CSS which are discussed below:</p>
 <ul>
  <li><p style='font-family: "Courier New", Courier, monospace'><b>font-family:</b> used to set the font type of an HTML element. It holds several font names as a fallback system.`font-family: "Courier New", Courier, monospace;`</p></li>
  <li><p><b>font-style:</b>  used to specify italic text.
 This property has three values:
 </p></li>
-<ol> 
+<ul> 
 	<li><p style="font-style: normal">normal - The text is shown normally</p></li>
 	<li><p style="font-style: italic">italic - The text is shown in italics</p></li>
 	<li><p style="font-style: oblique">oblique - The text is "leaning" (oblique is very similar to italic, but less supported)</p></li>
-</ol>
+</ul>
  <li><p><b>font-weight</b> property specifies the weight of a font:</p></li>
- <ol> 
+ <ul> 
 	<li><p style="font-weight: normal">normal - The text is shown normally</p></li>
 	<li><p style="font-weight: lighter">lighter - The text is shown in light weight</p></li>
 	<li><p style="font-weight: bold">bold - The text is shown in bold weight</p></li>
-</ol>
+</ul>
  <li><p>The <b>font-variant</b> property specifies whether or not a text should be displayed in a small-caps font. In a small-caps font, all lowercase letters are converted to uppercase letters. However, the converted uppercase letters appears in a smaller font size than the original uppercase letters in the text.</p></li>
- <ol> 
+ <ul> 
 	<li><p style="font-variant: normal">normal - The text is shown normally</p></li>
 	<li><p style="font-variant: small-caps">small-caps - Like uppercase is Uppercase but lowercase is Lower uppercase</p></li>
-</ol>
+</ul>
  <li><p>The <b>font-size</b> property sets the size of the text.</p></li>
 </ul>
 <h2>Font Sizes</h2>
@@ -46,9 +49,9 @@ This property has three values:
 	<p>Since <code>em</code> not work with all browsers the solution that works in all browsers, is to set a default font-size in percent for the <code>body</code> element. </p>
 	<p>Responsive Font Size - the text size can be set with a <code>vw</code> unit, which means the "viewport width". That way the text size will follow the size of the browser window(viewport is the browser window size. 1vw = 1% of viewport width. If the viewport is 50cm wide, 1vw is 0.5cm.)</p>
 
-If you want to [read about fonts in html](https://www.w3schools.com/css/css_font.asp)
+If you want to read about<a href="https://www.w3schools.com/css/css_font.asp"> fonts </a>in html
 
-# Start learning flexbox
+<h1>Start learning flexbox</h1>
 <p>It is also called a flexible box model. It is basically a layout model that provides an easy and clean way to <b>arrange items within container</b>. Flexbox is different from the <b>block</b> model which is vertically bias and the <b>inline</b> which is horizontally bias. Flexbox was created for <b>small-scales layouts</b> and there’s another standard called grids which is geared more towards <b>larger scale layouts</b>, It works similar to the way to Twitter <b>bootstrap</b> grid system works. <i>Flexbox is responsive and mobile-friendly.</i> To start with flexbox firstly create a <b>flex container</b>. To create a flex container set the display property to <b>flex</b>.</p>
 
 <ul> 
@@ -99,5 +102,6 @@ flex align-contents: <i>center, stretch, flex-start, flex-end,</i><br>
 	</p>
 	<p><a href="https://www.geeksforgeeks.org/css-flex-property/">Read more about CSS properties</a></p>
 <p>If you want to read about flexboxes<a href="https://www.w3schools.com/css/css3_flexbox_container.asp"> w3school </a>also <a href="https://www.geeksforgeeks.org/introduction-to-css-flexbox/">GFG</a></p>
+</div>
 
 

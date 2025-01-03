@@ -1,7 +1,8 @@
-<pre>We want to learn about flexbox layout in html.
-So let divide it into steps for better understanding.</pre>
+<p>We want to learn about flexbox layout in html.
+So let divide it into steps for better understanding.</p>
 <p>First of all we need to be familiar with stuff like: <i>css and div, class, id.</i></p>
 <p>Then we need to learn about <a href="https://www.w3schools.com/css/css_display_visibility.asp">the display property</a> also if you want you can <a href="https://www.w3schools.com/cssref/pr_class_display.php">read more examples with display</a> and if you <a href="https://www.geeksforgeeks.org/introduction-to-css-flexbox/">want to read even more</a></p>
+
 # Shortly about CSS display property
 <p>
 The <b>Display property</b> in CSS defines how the components(div, hyperlink, heading, etc) are going to be placed on the web page. As the name suggests, this property is used to define the display of the different parts of a web page.</p>
@@ -39,17 +40,13 @@ This property has three values:
 </ol>
  <li><p>The <b>font-size</b> property sets the size of the text.</p></li>
 </ul>
-<div style="background-color: #D3D3D3; color:#545454;"> 
-<p style = "background-color: #151515;text-align:center;"><b>Font sizes</b></p>
-	<div style="margin: 1em">
+<h2>Font Sizes</h2>
 	<p>If you do not specify a font size, the default size for normal text, like paragraphs, is 16px (16px=1em). </p>
 	<p>To allow users to resize(Resize mean zoom) the text (in the browser menu), many developers use <code>em</code> instead of <code>px</code>. </p>
 	<p>Since <code>em</code> not work with all browsers the solution that works in all browsers, is to set a default font-size in percent for the <code>body</code> element. </p>
 	<p>Responsive Font Size - the text size can be set with a <code>vw</code> unit, which means the "viewport width". That way the text size will follow the size of the browser window(viewport is the browser window size. 1vw = 1% of viewport width. If the viewport is 50cm wide, 1vw is 0.5cm.)</p>
-	</div>
-</div> 
 
-If you want to [read about it](https://www.w3schools.com/css/css_font.asp)
+If you want to [read about fonts in html](https://www.w3schools.com/css/css_font.asp)
 
 # Start learning flexbox
 <p>It is also called a flexible box model. It is basically a layout model that provides an easy and clean way to <b>arrange items within container</b>. Flexbox is different from the <b>block</b> model which is vertically bias and the <b>inline</b> which is horizontally bias. Flexbox was created for <b>small-scales layouts</b> and there’s another standard called grids which is geared more towards <b>larger scale layouts</b>, It works similar to the way to Twitter <b>bootstrap</b> grid system works. <i>Flexbox is responsive and mobile-friendly.</i> To start with flexbox firstly create a <b>flex container</b>. To create a flex container set the display property to <b>flex</b>.</p>
@@ -87,9 +84,7 @@ flex align-contents: <i>center, stretch, flex-start, flex-end,</i><br>
 <i>space-evenly</i> the flex lines are evenly distributed in the flex container, with equal space on top, bottom and between
 <br>}</p></li>
 </ul>
-<div style="background-color: #D3D3D3; color:#545454;"> 
-<p style = "background-color: #151515;text-align:center;"><b>CSS properties for flexbox</b></p>
-	<div style="margin: 1em">
+<h2>CSS properties for flexbox</h2>
 	<p>One funny thing here that you can switch main and cross axes<br>(flex-direction: column) then functionalities of justify-content and align-items will change</p>
 	<p>Use gap(gap : value) property to add gaps between items inside container(by default is 0)</p>
 	<p>Use flex-grow(flex-grow : unitless value) property to allow item to grow if there enough space(if all items have flex-grow: 1 remaining space will distributed equally to all of them(if you set it to 0 it will disappear)</p>
@@ -102,8 +97,7 @@ flex align-contents: <i>center, stretch, flex-start, flex-end,</i><br>
 	if you give property order: 1 to first item it will appear last<br>
 	(don't use it unless absolutely have to, cause it messes with semantics and accessibility of your HTML)
 	</p>
-	<p><a href="https://www.geeksforgeeks.org/css-flex-property/">Read more about them</a></p>
-	</div>
-</div> 
-If you want to [read about it](https://www.w3schools.com/css/css3_flexbox_container.asp) also [read it](https://www.geeksforgeeks.org/introduction-to-css-flexbox/)
+	<p><a href="https://www.geeksforgeeks.org/css-flex-property/">Read more about CSS properties</a></p>
+<p>If you want to read about flexboxes<a href="https://www.w3schools.com/css/css3_flexbox_container.asp"> w3school </a>also <a href="https://www.geeksforgeeks.org/introduction-to-css-flexbox/">GFG</a></p>
+
 

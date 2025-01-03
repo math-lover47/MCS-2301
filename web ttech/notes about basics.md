@@ -91,6 +91,8 @@ If you want to [read about it](https://www.w3schools.com/html/html_layout.asp)
 ```
 
 1)Targets **only `<div>` elements that are direct children of an element with the class `.container`**
+
 2)Targets **any `<div>` element that has the class `.container`, regardless of its location or children**
+
 3)Targets **all descendant `<div>` elements** of an element with the class `.container`, regardless of their depth in the DOM hierarchy
 

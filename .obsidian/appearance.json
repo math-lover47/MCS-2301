@@ -1,1 +1,6 @@
-{}
+{
+  "monospaceFontFamily": "Space Mono",
+  "interfaceFontFamily": "Open Sans",
+  "textFontFamily": "Montserrat",
+  "cssTheme": "Minimal"
+}

@@ -53,3 +53,44 @@ Examples:
 
 Note: While these work, modern web development strongly recommends using CSS instead of these legacy HTML attributes for better separation of concerns and maintainability.
 ```
+
+# Priorities
+
+Inline CSS has the highest priority(even than Id), then comes Internal/Embedded followed by External CSS which has the least priority.
+
+Class selector have higher priority than internal/external css. 
+
+Id selector have higher priority than class.
+
+If you want to [read about it](https://www.w3schools.com/css/css_specificity.asp)
+
+Also last think to say that the least priority is universal selector then default.
+
+# Layouts
+
+In short, here are four different techniques to create multicolumn layouts. Each technique has its pros and cons:
+
+- CSS framework(If you want to create your layout fast, you can use a CSS framework(smth like Bootstrap))
+
+- CSS float property(It is common to do entire web layouts using the CSS `float` property. **Advantages**:Float is easy to learn - you just need to remember how the `float` and `clear` properties work. **Disadvantages**: Floating elements are tied to the document flow, which may harm the flexibility)
+
+- CSS flexbox(Use of flexbox ensures that elements behave predictably when the page layout must accommodate different screen sizes and different display devices)
+
+- CSS grid(The CSS Grid Layout Module offers a grid-based layout system, with rows and columns, making it easier to design web pages without having to use floats and positioning.)
+
+If you want to [read about it](https://www.w3schools.com/html/html_layout.asp)
+
+# Difference between:
+
+```html
+1).container > div  
+
+2)div.container
+
+3).container div
+```
+
+1)Targets **only `<div>` elements that are direct children of an element with the class `.container`**
+2)Targets **any `<div>` element that has the class `.container`, regardless of its location or children**
+3)Targets **all descendant `<div>` elements** of an element with the class `.container`, regardless of their depth in the DOM hierarchy
+

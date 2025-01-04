@@ -39,9 +39,9 @@ $$
 #### 4
 ##### a
 
-1. Fixed # of trials
+1. Fixed number of trials
 2. Continuous probability of success
-3. # of successes and failures are known 
+3. Number of successes and failures are known 
 
 ##### b
 $$
@@ -70,9 +70,10 @@ $$
 $$
 ##### b
 $$
-P(X\geq 8) = 0.5^{8} 0.5^{2}\binom {10}{8} 
-+ 0.5^{9} 0.5^{1}\binom {10}{9} 
-+ 0.5^{10} 0.5^{0}\binom {10}{10}
+P(X\geq 8) = 
+0.5^{8} \cdot 0.5^{2} \cdot \binom {10}{8} + 
+0.5^{9} \cdot 0.5^{1} \cdot \binom {10}{9} + 
+0.5^{10} \cdot 0.5^{0} \cdot \binom {10}{10}
 \approx 0.0547
 $$
 #### 6

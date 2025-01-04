@@ -130,6 +130,7 @@ $$
 P(X<=3.75) = \frac{1 * 6+0.5 * 50 + 0.25 * 30}{50} = 0.77
 $$
 #### 6
+![image](https://github.com/user-attachments/assets/caad2d10-78c8-4363-aa07-cbbc6f48c7c9)
 
 ##### a) 
 ```S
@@ -157,6 +158,7 @@ $$
 P(\text{No more than one cartoon}) = \frac{18+35+40+30}{150}=\frac{123}{150}=\frac{41}{50}=0.82
 $$
 #### 7
+![image](https://github.com/user-attachments/assets/6e8dc335-6dc2-4166-a697-e228dae842db)
 
 ##### a)
 
@@ -189,6 +191,7 @@ $$
 \text{So its independent}
 $$
 #### 8
+![image](https://github.com/user-attachments/assets/e744a68d-23fb-4180-b022-2acc4507c13e)
 
 ```S
 C                              F                             S
@@ -212,7 +215,8 @@ $$
 \frac{13}{38} = \frac{21}{38} \cdot \frac{22}{38} \quad \text{Not independent}
 $$
 
-#### 8
+#### 9
+![image](https://github.com/user-attachments/assets/3b082895-065f-4360-afe1-a190da1921ca)
 
 ##### a)
 
@@ -236,6 +240,7 @@ $$
 0.05 = 0.25 \cdot 0.2 \quad \text{Independent}
 $$
 #### 10
+![image](https://github.com/user-attachments/assets/2da5f615-6331-44ac-ae1b-41da5a1ec371)
 
 ##### a)
 $$
@@ -267,6 +272,7 @@ $$
 $$
 
 #### 11
+![image](https://github.com/user-attachments/assets/b01d24e7-5b7d-4fd7-b3b0-e13dfe897d19)
 
 ##### a)
 $$
@@ -287,6 +293,7 @@ $$
 0.15 \neq 0.45 \cdot 0.55 \quad \text{Not independent}
 $$
 #### 12
+![image](https://github.com/user-attachments/assets/bfc7a4b0-cc0d-4ce5-b61e-4d785815b171)
 
 ##### a)
 ```
@@ -332,6 +339,7 @@ $$
 = \frac{11}{15}
 $$
 #### 13
+![image](https://github.com/user-attachments/assets/637f78e0-57f9-4b03-aa8e-fe3470884f05)
 
 ##### a)
 
@@ -365,6 +373,7 @@ $$
 $$
 
 #### 14
+![image](https://github.com/user-attachments/assets/04d0a555-942b-4981-9fed-289670ab7e2a)
 
 ##### a)
 $$
@@ -386,6 +395,7 @@ P(A'|B) = \frac{P(B \cap A')}{P(B)}
 = \frac{3}{7}
 $$
 #### 15
+![image](https://github.com/user-attachments/assets/921d9fd8-cad9-4f50-b68c-3151af0d5f82)
 
 ##### a)
 
@@ -428,6 +438,7 @@ P(K|(J' \cap L')) = \frac{P(K \cap (J' \cap L'))}{P(J')\cap P(L')}
 $$
 
 #### 16
+![image](https://github.com/user-attachments/assets/e2cbe21d-9ec3-4dd0-8e6e-1ad0a446aeca)
 
 ##### a)
 $$
@@ -453,6 +464,7 @@ P(\text{wear glasses}|\text{one language})
 = \frac{15}{26} 
 $$
 #### 17
+![image](https://github.com/user-attachments/assets/455b6d2c-6178-4ef3-892b-bc1fa3f46627)
 
 ##### a)
 
@@ -502,6 +514,7 @@ P(G_{1} \cap G_{2} \cap G_{3} \cap G_{4}) =
 \frac{9 \cdot 8 \cdot 6 \cdot 5}{15 \cdot 14 \cdot 13 \cdot 12} = \frac{6}{65}
 $$
 #### 18
+![image](https://github.com/user-attachments/assets/1e2b8d00-cf49-4d09-af59-9a5d5c0ffbc4)
 
 ```
     W          
@@ -530,6 +543,7 @@ P(W_{1} \cap W_{2}) \cup P(W_{1} \cap L_{2}) \cup P(L_{1} \cap W_{2}) = 0.55((0.
 =0.703
 $$
 #### 19
+![image](https://github.com/user-attachments/assets/0a154505-7462-432e-b06f-072cc2aed0b9)
 
 ```S
 B = 41                                        W = 29
@@ -562,6 +576,7 @@ P(\text{both have W paws}) =
 \frac{406}{2775} = \frac{13}{111}
 $$
 #### 20
+![image](https://github.com/user-attachments/assets/f4e199e6-fa59-4db3-b9ff-42ef96adae2d)
 
 ##### a)
 $$
@@ -600,6 +615,7 @@ $$
 P(A \cap (B' \cup C)) = P(\text{only A}) = \frac{28}{100} = 0.28
 $$
 #### 21
+![image](https://github.com/user-attachments/assets/30dcee0f-b142-45b9-a50e-cd267e94a233)
 
 ##### a) 
 because in many matches neither teams scores the probability doesn't add up to 1.

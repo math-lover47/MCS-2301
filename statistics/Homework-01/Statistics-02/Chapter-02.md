@@ -3,6 +3,8 @@
 
 ---
 #### 1
+![image](https://github.com/user-attachments/assets/b03e3c9c-390c-44e8-bd05-981b9c15adb7)
+
 $$
 \lambda = 0.7
 $$
@@ -28,6 +30,8 @@ $$
 P(Y=2)\binom{6}{2} \cdot 0.497^{2} \cdot 0.503^{4} \approx 0.237
 $$
 #### 3
+![image](https://github.com/user-attachments/assets/ff1284a8-d6dd-400c-a6b0-9e4bd83ea8b3)
+
 $$
 Y \sim P_{o}(\lambda)
 $$
@@ -42,6 +46,8 @@ $$
 \lambda^{2} = 25 \quad \to \quad \lambda = 5
 $$
 #### 4
+![image](https://github.com/user-attachments/assets/220d1ce4-4c8a-449e-95c0-82e6ce7d2b04)
+
 $$
 \lambda = 3 \quad \text{(every 5 minutes)}
 $$
@@ -68,6 +74,8 @@ $$
 P(X \geq 8) = 1 - P(X \leq 7) = 1 - (P(X=0)+\dots+P(X=7)) \approx 0.256
 $$
 #### 5
+![image](https://github.com/user-attachments/assets/2dbccb64-a984-4538-a9c4-5a8f16c6d7c0)
+
 ##### a) n is large, p is small
 ##### b)
 $$
@@ -91,6 +99,8 @@ $$
 \delta = \frac{|0.433-0.425|}{0.425}  \approx 0.0188 \%
 $$
 #### 7
+![image](https://github.com/user-attachments/assets/4b557073-db44-4146-a7ee-f9e38d1549c9)
+
 $$
 X \sim P_{o}(2) \quad \to \quad \text{ Since it last 2 hours} \quad \to \quad X \sim P_{o}(4)
 $$
@@ -104,6 +114,8 @@ $$
 P(Y=3) = \binom{5}{3} \cdot 0.371^{3} \cdot (1-0.371)^{2} \approx 0.202
 $$
 #### 8
+![image](https://github.com/user-attachments/assets/cd393ee5-40dc-4d8a-afde-6661686d5ec7)
+
 $$
 \lambda \quad \to \quad X \sim P_{o}(2.5) 
 $$
@@ -131,6 +143,8 @@ $$
 P(Y = 2) = \binom{8}{2}\cdot 0.208^{2} \cdot 0.792^{6} \approx 0.299
 $$
 #### 9
+![image](https://github.com/user-attachments/assets/4f960039-69b4-44a5-a4c4-8d36f55ef684)
+
 $$
 \lambda \quad \to \quad X \sim P_{o}(6) 
 $$
@@ -146,6 +160,8 @@ $$
 P(X=2) = \binom{4}{2} \cdot 0.161^{2} \cdot (1-0.161)^{2} \approx 0.109
 $$
 #### 10
+![image](https://github.com/user-attachments/assets/9e5a61e6-35fe-4daa-9cc8-278e831d66b4)
+
 $$
 \lambda_{aisha} \quad \to \quad X \sim P_{o}(1.2) 
 $$
@@ -171,6 +187,8 @@ $$
 P(Y \geq 3) = 1 - P(Y \leq 2) \approx 0.0437
 $$
 #### 11
+![image](https://github.com/user-attachments/assets/330f4079-e97f-4afc-a326-2f8858a17625)
+
 $$
 \lambda_{desktop} \quad \to \quad X \sim P_{o}(2.4) 
 $$
@@ -196,6 +214,8 @@ $$
 P(X_{\text{D 2 week} \cap \text{L 2 week}} \leq 6) \approx 0.313
 $$
 #### 12
+![image](https://github.com/user-attachments/assets/857526ec-5899-4862-aa36-44325ad15cd8)
+
 $$
 \lambda_{year} \quad \to \quad X \sim P_{o}(15) 
 $$
@@ -222,6 +242,8 @@ P(Y = 4) = \binom{6}{4} \cdot 0.713^{4} \cdot 0.287^{2}
 \approx 0.319
 $$
 #### 13
+![image](https://github.com/user-attachments/assets/8c95db41-0d35-42cb-b45d-406322fb9fff)
+
 $$
 \lambda_{year} \quad \to \quad X \sim P_{o}(8) 
 $$
@@ -244,6 +266,8 @@ P(Y = 3) = \binom{4}{3} \cdot 0.144^{3} \cdot 0.856^{1}
 \approx 0.010
 $$
 #### 14
+![image](https://github.com/user-attachments/assets/48f08dbb-1e12-4811-bc23-7caaef24a868)
+
 ##### a)
 $$
 \text{Events are independent and occur at const rate so poisson model is suitable: } P_{\text{per minute}}\left( \frac{240}{60} \right)
@@ -256,7 +280,9 @@ $$
 $$
 P(X_{2m} \geq 10) = 1- P(X_{2m} \leq 9)\approx 0.283
 $$
-#### 14
+#### 15
+![image](https://github.com/user-attachments/assets/0dbf7edf-e471-48f1-9112-2698b0ca546f)
+
 ##### a)
 $$
 Mean = \frac{0+23+70+99+96+60+42+21+8}{10+23+35+33+24+14+7+3+1} = \frac{419}{150} \approx 2.793

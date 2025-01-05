@@ -29,6 +29,24 @@ $$
 $$
 P(Y=2)\binom{6}{2} \cdot 0.497^{2} \cdot 0.503^{4} \approx 0.237
 $$
+#### 2
+$$
+\lambda_{\text{mistakes per chapter}} \quad \to \quad X \sim P_{o}(2.25) 
+$$
+##### b)
+$$
+P(X<=1) \approx 0.343
+$$
+##### c)
+$$
+P(X_{\text{2 chapters}}>6) = 1 - P(X_{\text{2 chapters}} \leq 6) \approx 0.169 
+$$
+$$
+$$
+$$
+
+$$
+
 #### 3
 ![image](https://github.com/user-attachments/assets/ff1284a8-d6dd-400c-a6b0-9e4bd83ea8b3)
 

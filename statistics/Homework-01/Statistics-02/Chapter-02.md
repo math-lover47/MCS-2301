@@ -30,6 +30,8 @@ $$
 P(Y=2)\binom{6}{2} \cdot 0.497^{2} \cdot 0.503^{4} \approx 0.237
 $$
 #### 2
+![image](https://github.com/user-attachments/assets/e681b584-91a6-4cfa-b796-b3cc1101e5ef)
+
 $$
 \lambda_{\text{mistakes per chapter}} \quad \to \quad X \sim P_{o}(2.25) 
 $$
